@@ -1,0 +1,13 @@
+Compound;Experiment;Temperature;126;127L;127H;128L;128H;129L;129H;130L;130H;131L;RefCol;Path;rep
+G1_S;S0248;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;G1S_S0248_rep2_merged_results_20170206_1250_proteins.txt;rep2
+G1_S;S0249;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;G1S_S0249_rep3_merged_results_20170206_1704_proteins.txt;rep3
+G1_S;S0250;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;G1S_S0250_rep4_merged_results_20170206_1523_proteins.txt;rep4
+M;S0163;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;mitosis_S0163_rep2_merged_results_20161201_1631_proteins.txt;rep2
+M;S0164;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;mitosis_S0164_rep3_merged_results_20161205_1645_proteins.txt;rep3
+M;S0165;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;mitosis_S0165_rep4_merged_results_20161205_1621_proteins.txt;rep4
+G1;S0243;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;G1_S0243_rep2_merged_results_20170124_0808_proteins.txt;rep2
+G1;S0244;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;G1_S0244_rep3_merged_results_20170127_1741_proteins.txt;rep3
+G1;S0245;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;G1_S0245_rep4_merged_results_20170215_1538_proteins.txt;rep4
+asynch;S0166;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;asynch_S0166_rep4_merged_results_20161205_1701_proteins.txt;rep2
+asynch;S0246;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;asynch_S0246_rep2_merged_results_20170207_1358_proteins.txt;rep3
+asynch;S0247;TPP_TR;37;40.4;44;46.9;49.8;52.9;55.5;58.6;62;66.3;126;asynch_S0247_rep3_merged_results_20170127_0829_proteins.txt;rep4

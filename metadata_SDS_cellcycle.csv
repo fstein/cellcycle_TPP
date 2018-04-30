@@ -1,0 +1,4 @@
+rep,treatment,126,127L,127H,128L,128H,129L,129H,130L,130H,131L,RefCol,Path
+rep2,cellcycle_SDS,G1_S,earlyS,lateS,S_G2,M,G1,asynch,,,,126,rep2_merged_results_20170505_1510_proteins.txt
+rep3,cellcycle_SDS,G1_S,earlyS,lateS,S_G2,M,,asynch,,,,126,rep3_redo_merged_results_20170508_1557_proteins.txt
+rep4,cellcycle_SDS,G1_S,earlyS,lateS,S_G2,M,G1,asynch,,,,126,rep4_redo_merged_results_20170427_1643_proteins.txt

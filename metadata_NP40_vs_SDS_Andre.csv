@@ -1,0 +1,11 @@
+tmt.label,rep,condition,cell.cycle,lysis,Path
+126,rep3,SDS_G1_S,G1_S,SDS,rep1_merged_results_20171210_1355_proteins.txt
+127L,rep4,SDS_G1_S,G1_S,SDS,rep1_merged_results_20171210_1355_proteins.txt
+127H,rep3,NP40_G1_S,G1_S,NP40,rep1_merged_results_20171210_1355_proteins.txt
+128L,rep4,NP40_G1_S,G1_S,NP40,rep1_merged_results_20171210_1355_proteins.txt
+128H,rep3,SDS_M,M,SDS,rep1_merged_results_20171210_1355_proteins.txt
+129L,rep4,SDS_M,M,SDS,rep1_merged_results_20171210_1355_proteins.txt
+129H,rep3,NP40_M,M,NP40,rep1_merged_results_20171210_1355_proteins.txt
+130L,rep4,NP40_M,M,NP40,rep1_merged_results_20171210_1355_proteins.txt
+130H,,,,,
+131L,,,,,
